@@ -1,0 +1,11 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.9.30
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Sat Mar 19 13:20:25 2016"
+  rime_version: 1.1.2
+patch:
+  "style/color_scheme": steam
+  "style/horizontal": true
+  "style/font_face": "Yahei Consolas Hybrid"
+  "style/font_point": 12
