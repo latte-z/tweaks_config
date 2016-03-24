@@ -1,0 +1,10 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "editor.fontFamily": "YaHei Consolas Hybrid",
+    
+    "editor.fontSize": 14,
+    
+    //"http.proxy": "127.0.0.1:1080",
+    
+    "git.path": "D:\\Dev\\Git\\bin\\git.exe"
+}
